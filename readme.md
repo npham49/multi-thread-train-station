@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-A simple train station simulator with multithreading, mutexes and conditional variables
+- A simple train station simulator with multithreading, mutexes and conditional variables
 
 # INPUT
 
