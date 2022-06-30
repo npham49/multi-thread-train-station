@@ -5,11 +5,16 @@
 - A simple train station simulator with multithreading, mutexes and conditional variables
 
 # INPUT
+<img width="75" alt="image" src="https://user-images.githubusercontent.com/63203684/176587187-ae27a789-5e6f-4163-acec-afe41ff98bd9.png">
+
 
 - a .txt file with the following format:
   * each line represent a train with the first element being wither e,E,w,W. Second element is the load time with cross time being the 3rd element, separated by " "
 
 # OUTPUT
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/63203684/176587152-315f220e-5e11-420f-bbf5-0070727ebdaf.png">
+
 
 - if a train is ready to go/finished loading :%timestamp% Train %train_number% is ready to go %direction%
 - if a train is on a track: %timestamp% Train %train_number% is ON the main track going %direction%
