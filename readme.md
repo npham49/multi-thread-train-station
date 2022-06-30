@@ -7,7 +7,7 @@
 # INPUT
 
 - a .txt file with the following format:
-  *each line represent a train with the first element being wither e,E,w,W. Second element is the load time with cross time being the 3rd element, separated by " "
+  * each line represent a train with the first element being wither e,E,w,W. Second element is the load time with cross time being the 3rd element, separated by " "
 
 # OUTPUT
 
