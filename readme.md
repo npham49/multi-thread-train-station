@@ -12,6 +12,7 @@ A simple train station simulator with multithreading, mutexes and conditional va
 # OUTPUT
 
 -if a train is ready to go/finished loading :%timestamp% Train %train_number% is ready to go %direction%
+
 -if a train is on a track: %timestamp% Train %train_number% is ON the main track going %direction%
 -if a train has finished crossing: %timestamp% Train %train_number% is OFF the main track after going %direction%
 
